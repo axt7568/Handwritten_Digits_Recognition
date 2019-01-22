@@ -30,8 +30,6 @@ J = 0;
 Theta1_grad = zeros(size(Theta1));
 Theta2_grad = zeros(size(Theta2));
 
-% ====================== YOUR CODE HERE ======================
-
 %
 % Part 1: Feedforward the neural network and return the cost in the
 %         variable J.
